@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://safdarjamal.github.io/quiz-app/">
-    QuizApp
+    QuizApp Devops Project
   </a>
 </h1>
 
